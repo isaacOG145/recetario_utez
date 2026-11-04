@@ -47,4 +47,3 @@ class DummyJsonRepositorio implements RecetasRepositorio {
       throw const RespuestaInvalida();
     }
   }
-}
